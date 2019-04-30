@@ -173,8 +173,8 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 	
-	open(C,"md5sum <$fn |") || die "$fn $!";
-	chop($_=<C>); close(C); $? and die sprintf(_g("\`md5sum < %s' exited with %d"), $fn, $?)."\n";
+	open(C,"md5 <$fn |") || die "$fn $!";
+	chop($_=<C>); close(C); $? and die sprintf(_g("\`md5 < %s' exited with %d"), $fn, $?)."\n";
 	/^([0-9a-f]{32})\s*-?\s*$/ or die sprintf(_g("Strange text from \`md5sum < %s': \`%s'"), $fn, $_)."\n";
 	$tv{'MD5sum'}= $1;
 	
