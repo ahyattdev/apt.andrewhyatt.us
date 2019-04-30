@@ -1,0 +1,12 @@
+io.github.rossistboss.quickpasscodeentry optional Tweaks Andrew Hyatt <ahyattdev@icloud.com>
+io.github.rossistboss.quickmanualsub optional Tweaks Andrew Hyatt <ahyattdev@icloud.com>
+ml.andrewhyatt.typetab optional Tweaks Andrew Hyatt <ahyattdev@icloud.com>
+ml.andrewhyatt.hardwarekeyboardfix optional Tweaks Andrew Hyatt <ahyattdev@icloud.com>
+io.github.ahyattdev.nomessagesflash optional Tweaks Andrew Hyatt <ahyattdev@icloud.com>
+ssh-copy-id optional Networking Andrew Hyatt <ahyattdev@icloud.com>
+ssh-agent-autostart optional Networking Andrew Hyatt <ahyattdev@icloud.com>
+io.github.ahyattdev.openssh important Networking Andrew Hyatt <ahyattdev@icloud.com>
+autoconf optional Development Andrew Hyatt <ahyattdev@icloud.com>
+automake optional Development Andrew Hyatt <ahyattdev@icloud.com>
+xz-utils optional Development Andrew Hyatt <ahyattdev@icloud.com>
+gettext optional System Andrew Hyatt <ahyattdev@icloud.com>
