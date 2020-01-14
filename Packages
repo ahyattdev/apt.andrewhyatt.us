@@ -80,6 +80,21 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hardwarekey
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hardwarekeyboardfixDp
 
 Package: ml.andrewhyatt.typetab
+Version: 5.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: Andrew Hyatt <ahyattdev@icloud.com>
+Depends: mobilesubstrate (>= 0.9.6101), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs//ml.andrewhyatt.typetab_5.0.1_iphoneos-arm.deb
+Size: 17170
+Installed-Size: 328
+MD5sum: 2cc71922e6e79498740c7bf4fcb13a2c
+Description: Faster address entry for Safari tabs
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+
+Package: ml.andrewhyatt.typetab
 Version: 1.0-1
 Priority: optional
 Section: Tweaks
@@ -123,6 +138,21 @@ Size: 8374
 Installed-Size: 200
 MD5sum: 5fc8371cf6b50d9d8c4b456c7939eeeb
 Description: Type into the Safari address bar immediatly after creating a new tab
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+
+Package: ml.andrewhyatt.typetab
+Version: 5.0
+Priority: optional
+Section: Tweaks
+Maintainer: Andrew Hyatt <ahyattdev@icloud.com>
+Depends: mobilesubstrate (>= 0.9.6101), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs//ml.andrewhyatt.typetab_5.0_iphoneos-arm.deb
+Size: 17168
+Installed-Size: 328
+MD5sum: ea97e442147a01febe850535569d8a74
+Description: Faster address entry for Safari tabs
 Name: TypeTab
 Author: Andrew Hyatt <ahyattdev@icloud.com>
 
@@ -197,6 +227,21 @@ Filename: ./debs//ml.andrewhyatt.typetab_2.0.1_iphoneos-arm.deb
 Size: 3912
 Installed-Size: 200
 MD5sum: 7fb07e774b08aacb5f87d54c5a36b9ad
+Description: Faster address entry for Safari tabs
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+
+Package: ml.andrewhyatt.typetab
+Version: 5.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: Andrew Hyatt <ahyattdev@icloud.com>
+Depends: mobilesubstrate (>= 0.9.6101), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs//ml.andrewhyatt.typetab_5.0.2_iphoneos-arm.deb
+Size: 17428
+Installed-Size: 332
+MD5sum: cf90741334645b97599a2c4693ea9229
 Description: Faster address entry for Safari tabs
 Name: TypeTab
 Author: Andrew Hyatt <ahyattdev@icloud.com>
