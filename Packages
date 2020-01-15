@@ -202,6 +202,21 @@ Name: TypeTab
 Author: Andrew Hyatt <ahyattdev@icloud.com>
 
 Package: ml.andrewhyatt.typetab
+Version: 5.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Andrew Hyatt <ahyattdev@icloud.com>
+Depends: mobilesubstrate (>= 0.9.6101), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs//ml.andrewhyatt.typetab_5.0.3_iphoneos-arm.deb
+Size: 17430
+Installed-Size: 332
+MD5sum: c0e42c9e76ca80befd0270b9dc774d4f
+Description: Faster address entry for Safari tabs
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+
+Package: ml.andrewhyatt.typetab
 Version: 4.0
 Priority: optional
 Section: Tweaks
